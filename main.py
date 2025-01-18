@@ -1,7 +1,8 @@
+
+#                                          ------Sequential Image Downloader------
+
+
 #https://picsum.photos/id/237/200/300
-
-
-
 
 import requests
 import time
